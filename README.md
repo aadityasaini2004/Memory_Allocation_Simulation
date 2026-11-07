@@ -43,7 +43,7 @@ The simulator models how an operating system assigns memory segments to processe
 
 | Main Simulator | Algorithm Comparison |
 |:---:|:---:|
-| ![Main Simulator](assets/screenshots/simulator_main.png) | ![Algorithm Comparison](assets/screenshots/algorithm_comparison.png) |
+| ![Main Simulator](assets/screenshots/Dashboard.png) | ![Algorithm Comparison](assets/screenshots/Algo-Comparison.png) |
 
 ---
 
